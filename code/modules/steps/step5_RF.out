@@ -1,0 +1,13 @@
+CUDA_VISIBLE_DEVICES: 0     
+ 
+ Nodelist       :=  dp-dam03
+ Number of nodes:=  1
+ Ntasks per node:=  1
+ Ntasks         :=  1
+ 
+Running on multiple nodes and GPU devices
+
+Run started at:- 
+Mon Jan 10 12:06:10 CET 2022
+Run completed at:- 
+Mon Jan 10 12:06:17 CET 2022

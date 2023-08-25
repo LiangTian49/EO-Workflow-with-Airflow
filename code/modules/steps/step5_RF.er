@@ -1,0 +1,20 @@
+        Preparing the environment for use of requested stage ( Devel-2020 ).
+     
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) Stages/Devel-2020
+        Preparing the environment for use of requested stage ( Devel-2020 ).
+     
+        Preparing the environment for use of requested stage ( 2020 ).
+     
+
+The following have been reloaded with a version change:
+  1) Stages/Devel-2020 => Stages/2020
+
+cpu_bind=NONE - dp-dam03, task  0  0 [5721]: mask 0xffffffffffffffffffffffff set
+Traceback (most recent call last):
+  File "step5_lstm_classification.py", line 19, in <module>
+    from configurations import configuration
+ModuleNotFoundError: No module named 'configurations'
+srun: error: dp-dam03: task 0: Exited with exit code 1

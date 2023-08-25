@@ -1,0 +1,14 @@
+# QGIS Generated Color Map Export File, Classes are merged 
+INTERPOLATION:EXACT
+0,0,0,0,0,Unknown
+1,189,0,9,255,Artificial
+2,204,255,157,255,Grass
+3,251,228,86,255,Crops
+4,216,228,79,255,Rice
+5,102,51,0,255,Mineral Rocks and Sand
+6,129,255,43,255,Broadleaves
+7,26,171,27,255,Conifers
+8,142,145,31,255,Shrubland
+9,0,255,166,255,Lagoons
+10,48,187,215,255,Water bodies
+11,255,255,255,255,Snow

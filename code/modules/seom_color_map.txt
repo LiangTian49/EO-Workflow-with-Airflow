@@ -1,0 +1,18 @@
+# QGIS Generated Color Map Export File from Luca
+INTERPOLATION:EXACT
+0,0,0,0,0,Unknown
+1,230,0,77,255,Urban
+2,204,255,153,255,Grass
+3,255,255,168,255,Not irrigated crops
+4,230,128,0,255,Irrigated crops
+5,100,90,30,255,Annual crops
+6,230,242,0,255,Rice
+7,166,0,204,255,Mineral
+8,102,51,0,255,Rocks
+9,255,181,57,255,Sand
+10,128,255,0,255,Broadleaves
+11,0,166,0,255,Conifers
+12,143,145,17,255,Shrub
+13,0,255,166,255,Lagoons
+15,128,242,230,255,Lake
+16,255,255,255,255,Snow
